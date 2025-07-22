@@ -2,10 +2,7 @@
 
 This project detects real-time facial expressions via webcam and superimposes corresponding **emojis** over the detected faces. It utilizes **HAAR Cascade Classifier** for facial feature detection and **Support Vector Machines (SVM)** for emotion classification. The output simulates emoji reactions similar to filters on platforms like **Snapchat, Instagram**, and **Facebook**.
 
-## 📽 Demo
-> A demonstration video/gif of the system in action can go here. *(Optional)*
 
----
 
 ## 📌 Features
 - Real-time facial expression detection
